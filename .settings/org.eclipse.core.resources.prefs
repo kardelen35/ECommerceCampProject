@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/Ecommerce/GoogleAccount/GoogleManager.java=UTF-8
+encoding//src/Ecommerce/Main.java=UTF-8
+encoding//src/Ecommerce/business/concretes/UserManager.java=UTF-8
+encoding//src/Ecommerce/dataAccess/concretes/HibernateUserDao.java=UTF-8
